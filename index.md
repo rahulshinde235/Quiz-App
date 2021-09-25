@@ -14,16 +14,16 @@
       <h2 class="text-primary display-3 my-4">Ninja Quiz</h2>
     </div>
   </div>
-  <div class="result py-4 d-none bg-light text-center">
+  <div class="result py-4 d-none bg-info text-center">
     <div class="container lead">
       <p>You are <span class="text-primary display-4 p-3">0%</span> ninja</p>
     </div>
   </div>  <!-- quiz section -->
-  <div class="quiz py-4 bg-light">
+  <div class="quiz py-4 bg-info">
     <div class="container">
-      <h2 class="my-5 text-white">On with the questions...</h2>
+      <h2 class="my-5 text-success">On with the questions...</h2>
 
-      <form class="quiz-form text-primary">
+      <form class="quiz-form text-dark">
         <div class="my-5">
           <p class="lead font-weight-normal">1. How do you give a ninja directions?</p>
           <div class="form-check my-2 text-white-50">
