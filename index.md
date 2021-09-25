@@ -21,7 +21,7 @@
   </div>  <!-- quiz section -->
   <div class="quiz py-4 bg-info">
     <div class="container">
-      <h2 class="my-5 text-success">On with the questions...</h2>
+      <h2 class="my-5 text-danger">On with the questions...</h2>
 
       <form class="quiz-form text-dark">
         <div class="my-5">
