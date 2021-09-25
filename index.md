@@ -19,11 +19,11 @@
       <p>You are <span class="text-primary display-4 p-3">0%</span> ninja</p>
     </div>
   </div>  <!-- quiz section -->
-  <div class="quiz py-4 bg-primary">
+  <div class="quiz py-4 bg-light">
     <div class="container">
       <h2 class="my-5 text-white">On with the questions...</h2>
 
-      <form class="quiz-form text-light">
+      <form class="quiz-form text-primary">
         <div class="my-5">
           <p class="lead font-weight-normal">1. How do you give a ninja directions?</p>
           <div class="form-check my-2 text-white-50">
